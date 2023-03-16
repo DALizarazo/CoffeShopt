@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(250, 210, 151);
+
+}
+/*aplica a todas las etiquetas "a"*/
+#menu-navegacion{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+div{
+    background-color: rgb(210, 105, 30);
+}
+img{
+    width: 500px;
+    height: 600px;
+    margin: 15px 12px -41px 106px;
+    border: 3px solid rgba(251, 133, 0, .5);
+    opacity: .5;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+.imagenes1 {
+    width: 500px;
+    margin: 20px 0px 0px 105px;
+    text-align: center;
+    float: left;
+    background-color: rgba(210, 105, 30, .8);
+}
+
+.imagenes2 {
+    width: 500px;
+    margin: 20px 80px 0px 0px;
+    text-align: center;
+    float: right;
+}
+
+.imagenes3{
+    width: 500px;
+    margin: 20px 80px 0px 0px;
+    text-align: center;
+    float: right;
+}
+
+.imagenes4{
+    width: 500px;
+    margin: 20px 80px 0px 0px;
+    text-align: center;
+    float: right;
+}
+
+h1{
+    <font face=”Times new roman”>Texto</font>
+    <font face=”Arial”>Texto</font>
+}
+
+
+h4,h6{
+    font-size: 25px;
+    margin:0 0 70px 60px;
+
+}
+/* h3,h5{
+    font-size: 35px;
+    margin: 0 0 0 300px;
+    
+} */
+#fondo-imagen{
+    background: rgb(250, 210, 151);
+    float: right;
+    /* margin: 0px 10px 0px 0px; */
+}
+
+#productos.nuevoproducto{
+    background-color: rgb(250, 210, 151);
+}
+#logo{
+    width: 10px;
+    height: 10px;
+
+}
+
+#Texto-Nosotros{
+    margin: 100px 0px 0px 0px;
+    width: 500px;
+    float: left;
+    
+}
+ 
+#Capu.Malteada{
+    width: 100px;
+    height: 300px;
+
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*aplica a todos los elementos con clase "test"*/
+.test{
+
+}
+
+/*aplica para todos los elementos con id "miId"*/
+#miId{}
